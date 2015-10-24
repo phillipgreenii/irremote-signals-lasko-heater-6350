@@ -1,0 +1,25 @@
+#######################################
+# Syntax Coloring Map For IRremote
+#  Commands for Lasko Header 6350
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+LASKO_6350_POWER	    LITERAL1
+LASKO_6350_TEMP_UP	  LITERAL1
+LASKO_6350_TEMP_DOWN	LITERAL1
+LASKO_6350_OSCILLATE	LITERAL1
+LASKO_6350_TIMER	    LITERAL1
+LASKO_6350_MODE	      LITERAL1

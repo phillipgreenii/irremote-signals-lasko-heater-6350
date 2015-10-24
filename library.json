@@ -1,0 +1,12 @@
+{
+  "name": "IRremote",
+  "keywords": "infrared, ir, remote, lasko, lasko 6350",
+  "description": "IRremote signals for Lasko Heater 6350",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/phillipgreenii/irremote-signals-lasko-heater-6350.git"
+  },
+  "frameworks": "arduino",
+  "platforms": "atmelavr"
+}
